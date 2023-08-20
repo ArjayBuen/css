@@ -1,4 +1,51 @@
 
 body{
-    background-color: lightgreen;
+    background-color: none;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+
+.top-container{
+    background-color:lightcyan;
+    /* width: 200px;
+    height:200px; */
+    /* border: 10px solid;
+    padding: 20px;
+    display: inline-block; */
+    /* position: relative;
+    left: 400px; */
+    /* position: absolute;
+    left: 400px;
+    top: 400px; */
+}
+.middle-container{
+    background-color:coral;
+    width: 200px;
+    height:200px;
+    /* border: 20px solid;
+    margin-left: 260px; */
+    /* position: relative;
+    top:-200px; */
+    
+}
+.bottom-container{
+    width: 200px;
+    height:200px;
+    background-color: aquamarine;
+    /* border:10px solid;
+    margin-left: 500px; */
+    /* position: relative;
+    left: 200px;
+    top: -400px; */
+    /* position: relative;
+    left: 200px; */
+}
+.top-cloud{
+    margin-left: 400px;
+}
+.bottom-cloud{
+    position: absolute;
 }
