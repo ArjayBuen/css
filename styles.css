@@ -3,13 +3,14 @@ body{
     background-color: none;
     margin: 0;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1{
     margin: 0;
 }
 
 .top-container{
-    background-color:lightcyan;
+    background-color:rgb(168, 229, 229);
     /* width: 200px;
     height:200px; */
     /* border: 10px solid;
@@ -22,19 +23,19 @@ h1{
     top: 400px; */
 }
 .middle-container{
-    background-color:coral;
+    /* background-color:coral;
     width: 200px;
-    height:200px;
+    height:200px; */
     /* border: 20px solid;
     margin-left: 260px; */
     /* position: relative;
     top:-200px; */
-    
+    background-color: aquamarine;
 }
 .bottom-container{
-    width: 200px;
+    /* width: 200px;
     height:200px;
-    background-color: aquamarine;
+    background-color: aquamarine; */
     /* border:10px solid;
     margin-left: 500px; */
     /* position: relative;
@@ -42,6 +43,7 @@ h1{
     top: -400px; */
     /* position: relative;
     left: 200px; */
+    background-color: aquamarine;
 }
 .top-cloud{
     margin-left: 400px;
